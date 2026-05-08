@@ -71,20 +71,20 @@ work/INPUT/RYF.vas.1990_1991.nc:
   hashes:
     binhash: f353a71a014062723ed2b56353932caf
     md5: 30b92b1e409cff9a9900692aa961aba4
-work/INPUT/access-om3-4km-ML-DTU_DKL-ESMFmesh.nc:
-  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-ESMFmesh.nc
+work/INPUT/access-om3-4km-ESMFmesh.nc:
+  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ESMFmesh.nc
   hashes:
-    binhash: 1bef6d04b2ec833fc7dbe05960014a50
+    binhash: 0a880d756c54d2c3b635ef33e86a9d60
     md5: b89eff0012bab93541c7a67400e35a20
-work/INPUT/access-om3-4km-ML-DTU_DKL-nomask-ESMFmesh.nc:
-  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-nomask-ESMFmesh.nc
+work/INPUT/access-om3-4km-nomask-ESMFmesh.nc:
+  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-nomask-ESMFmesh.nc
   hashes:
-    binhash: b2309fa7181c46210af8f4a9e38ec882
+    binhash: 122a1723c9b2e71ab1433a48a9300ce7
     md5: f92a14f6ea80f5ea82e53a507385e24a
-work/INPUT/access-om3-4km-ML-DTU_DKL-rof-remap-weights.nc:
-  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-rof-remap-weights.nc
+work/INPUT/access-om3-4km-rof-remap-weights.nc:
+  fullpath: /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-rof-remap-weights.nc
   hashes:
-    binhash: b92ac279cd7dac635e765b35d86f025c
+    binhash: a2e47db6f0a2a1699f67af961212d1a7
     md5: 9949ce264b949179cf0fa33f71bc8007
 work/INPUT/bottom_roughness.nc:
   fullpath: /g/data/vk83/prerelease/configurations/inputs/access-om3/panan.4km/2026.01.08/bottom_roughness.nc

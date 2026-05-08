@@ -41,11 +41,11 @@ input:
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/panan.4km/2026.01.08/tideamp.nc
     - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/topog.nc
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/panan.4km/2026.02.11/chl_globcolour_monthly_clim.nc
-    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-ESMFmesh.nc
-    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-nomask-ESMFmesh.nc
+    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ESMFmesh.nc
+    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-nomask-ESMFmesh.nc
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/share/meshes/share/2026.01.21/JRA55do-datm-ESMFmesh.nc
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/share/meshes/share/2026.01.21/JRA55do-drof-ESMFmesh.nc
-    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-ML-DTU_DKL-rof-remap-weights.nc
+    - /g/data/jk72/ed7737/access-om3/inputs/4km-PanAntarctic/bathy_products/DTU_DKL/access-om3-4km-rof-remap-weights.nc
     - /g/data/vk83/configurations/inputs/JRA-55/RYF/v1-6/data
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/panan.4km/2026.01.08/OBC37S_forcing_access_yr2_4km.nc
     - /g/data/vk83/prerelease/configurations/inputs/access-om3/panan.4km/2026.01.08/diag_rho2.nc
