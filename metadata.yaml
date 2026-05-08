@@ -23,10 +23,10 @@ realm:
 nominal_resolution: 25 km
 license: CC-BY-4.0
 model: ACCESS-OM3
-url: https://github.com/ACCESS-NRI/access-om3-configs
+url: git@github.com:edoddridge/panAnt_bathy_config.git
 version: 1.0-beta
-experiment_uuid: 4b1915d0-e552-41f5-a468-e79ab76d1bd7
-name: DTU_DKL-DTU_DKL-4b1915d0
+experiment_uuid: 691b4871-455f-4084-822c-c83c8d3366dd
+name: DTU_DKL-DTU_DKL-691b4871
 schema_version: 1-0-3
 long_description: __REPLACE_ME__  # Long description of the experiment (string)
 # frequency: The frequency(/ies) included in the experiment (array of strings)
