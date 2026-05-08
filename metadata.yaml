@@ -25,8 +25,8 @@ license: CC-BY-4.0
 model: ACCESS-OM3
 url: git@github.com:edoddridge/panAnt_bathy_config.git
 version: 1.0-beta
-experiment_uuid: 6d40d834-e013-4484-845c-d4832a131fad
-name: DTU_DKL-DTU_DKL-6d40d834
+experiment_uuid: 21a3eb2b-e526-47ab-b6e3-2d477aba43a4
+name: DTU_DKL-DTU_DKL-21a3eb2b
 schema_version: 1-0-3
 long_description: __REPLACE_ME__  # Long description of the experiment (string)
 # frequency: The frequency(/ies) included in the experiment (array of strings)
